@@ -6,5 +6,5 @@ TEST V2
 C'est qui rachel???
 =======
 j'écris ce que je veux
-immeuble
->>>>>>> 980011d0d0863fb8879ab3223edb13c7b320e6df
+
+>>>>>>> 6fe6cfc02d284abd69337c71fa7d9874a317d738
